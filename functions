@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+void add(inta ,int b){
+int c=a+b;
+printf("Sum :%d",c);
+}
+int man(void){
+int a,b;
+printf("Enter a number :");
+scanf("%d%d",&a,&b);
+add();
+}
